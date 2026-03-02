@@ -102,7 +102,7 @@ eklenmesi planlanmaktadır.
 ### ▶️ Nasıl Çalıştırılır?
 - cd 03_Sifre_Araci
 - python main.py
-- 
+
 ### 🧠 Kullanılan Konular
 
 - random ve string modülleri
